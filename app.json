@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Example usage"
+    "description": "Mobile App for API server: https://cors.muzamint.com",
+    "githubUrl": "https://github.com/mingderwang/3star-ui"
   }
 }
